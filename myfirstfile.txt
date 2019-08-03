@@ -1,8 +1,3 @@
 this is my first testfile.
 this is the second line 
-<<<<<<< HEAD
-this --local--one localtest is the conflict
-=======
 this --local--one origin is the conflict
-
->>>>>>> c346fbd3dad9af289009bae4ffdf6b8edc0e359c
