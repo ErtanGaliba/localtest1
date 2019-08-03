@@ -1,3 +1,7 @@
 this is my first testfile.
 this is the second line 
+<<<<<<< HEAD
 this --local--one is the conflict
+=======
+this is the conflict test
+>>>>>>> 87108680b7004756234ee66f7fa518f57d7b8050
