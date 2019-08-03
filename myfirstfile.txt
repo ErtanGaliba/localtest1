@@ -1,8 +1,4 @@
 this is my first testfile.
 this is the second line 
-<<<<<<< HEAD
-this --local--one localtest is the conflict
-=======
-this --local--one master the conflict
->>>>>>> 980ec4ed7b9f69417b424c7c5ab018ba675fadef
+this --local--one origin is the conflict
 
