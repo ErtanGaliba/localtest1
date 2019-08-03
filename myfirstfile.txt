@@ -1,2 +1,3 @@
 this is my first testfile.
 this is the second line 
+this --local--one is the conflict
