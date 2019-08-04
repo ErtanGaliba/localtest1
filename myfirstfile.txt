@@ -2,3 +2,5 @@ this is my first testfile.
 this is the second line 
 this --local--one localtest is the conflict
 this is the new line
+this the before branch
+this is the after branch
